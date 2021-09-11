@@ -30,3 +30,10 @@ body {
   text-align: center;
   text-decoration: none;
 }
+
+#links {
+  max-width: 675px;
+  width: auto;
+  display: block;
+  margin: 27px auto;
+}
