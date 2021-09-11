@@ -53,3 +53,9 @@ body {
   border: solid #2443aa 2px;
   border-radius: 25px;
 }
+
+.link:hover {
+  background-color: rgb(0, 0, 0);
+  color: rgb(85, 124, 255);
+  border: solid rgb(66, 110, 255) 2px;
+}
